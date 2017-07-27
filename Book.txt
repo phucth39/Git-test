@@ -1,0 +1,6 @@
+Python
+Python is another language that is gaining wide acceptance and popularity. And
+there are multiple socket.io server implementations for Python.
+The frst we look at is gevent-socket.io (https://github.com/abourget/geventsocketio), which works with any WSGI-based web frameworks. So if you are using
+any framework such as Pyramid, Pylons, Flask, and Django, this will work for you.
+The only dependencies are gevent and gevent-websocket.
